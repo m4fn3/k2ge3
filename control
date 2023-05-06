@@ -1,0 +1,9 @@
+Package: com.m4fn3.k2ge3
+Name: k2ge3
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Tweak for LINE app.
+Maintainer: mafu
+Author: mafu
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
