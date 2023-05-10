@@ -16,7 +16,7 @@
 			<key>default</key>
 			<false/>
 			<key>defaults</key>
-			<string>com.m4fn3.k2ge3-pref</string>
+			<string>com.m4fn3.k2ge3.preferences</string>
 			<key>key</key>
 			<string>read</string>
 			<key>label</key>
@@ -28,7 +28,7 @@
 			<key>default</key>
 			<false/>
 			<key>defaults</key>
-			<string>com.m4fn3.k2ge3-pref</string>
+			<string>com.m4fn3.k2ge3.preferences</string>
 			<key>key</key>
 			<string>unsend</string>
 			<key>label</key>
@@ -70,6 +70,6 @@
 		</dict>
 	</array>
 	<key>title</key>
-	<string>k2ge3</string>
+	<string>K2ge3</string>
 </dict>
 </plist>

@@ -1,6 +1,6 @@
 #import <Preferences/PSListController.h>
 
-@interface XXXRootListController : PSListController
+@interface K2ge3RootListController : PSListController
 
 @end
 

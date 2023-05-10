@@ -5,9 +5,9 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
-	<string>k2ge3-pref</string>
+	<string>K2ge3Preferences</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.m4fn3.k2ge3-pref</string>
+	<string>com.m4fn3.k2ge3.preferences</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundlePackageType</key>
@@ -19,6 +19,6 @@
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>NSPrincipalClass</key>
-	<string>XXXRootListController</string>
+	<string>K2ge3RootListController</string>
 </dict>
 </plist>

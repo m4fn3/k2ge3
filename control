@@ -1,9 +1,10 @@
 Package: com.m4fn3.k2ge3
-Name: k2ge3
-Version: 0.1.0
+Name: K2ge3
+Version: 0.1.1
 Architecture: iphoneos-arm
-Description: Tweak for LINE app.
+Description: Tweak for LINE app
 Maintainer: mafu
 Author: mafu
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Icon: https://cdn.discordapp.com/attachments/1009459069087649792/1104720147119362119/icon3x.png
